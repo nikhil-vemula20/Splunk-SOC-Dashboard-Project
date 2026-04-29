@@ -9,7 +9,7 @@ This project demonstrates a functional **Security Operations Center (SOC)** envi
 - **Vulnerability Forensics:** Deep-dive table catching **Shellshock (CVE-2014-6271)** and **XSS** strings.
 
 ## 📸 Dashboard Preview
-![Dashboard](Screenshot at 2026-04-29 22-04-57.png) 
+![Dashboard](Screenshot at 2026-04-29 22-00-59.png) 
 
 ## 🛠️ Skills Demonstrated
 - SIEM Management (Splunk Enterprise)
